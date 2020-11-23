@@ -30,7 +30,7 @@
 # In[3]:
 
 ### START CODE HERE ### (≈ 1 line of code)
-test = "Hello World"
+test = "Hello World;I'm Sexy and I know it...La La La"
 ### END CODE HERE ###
 
 
